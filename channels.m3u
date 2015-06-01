@@ -686,5 +686,6 @@ http://83.139.104.123/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.
 http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
 #EXTINF:-1,VOX
 http://83.139.104.123/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
-#EXTINF:-1,ZDRAVA TV
-http://83.139.104.123/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
+#EXTINF:-1,- TEST RTV BALKYU
+rtmp://pconznoonqnu.fs8.stream.balkaniyum.tv/20E3E1/op?c=YmGjm155quKfg2Wk5JGZn62D0YWspqeqqZmYdYTad2PrlM8pY2GwqA8b90ca57f4e8cfdef1baf
+
