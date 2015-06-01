@@ -376,3 +376,315 @@ mms://195.252.114.172/tvcg
 #EXTINF:-1,ZLATNI BIK
 http://199.115.117.206:8000/zlatnibik
 
+#EXTINF:-1,***HasBahCa IPTV SIRBISTAN-HIRVATISTAN  SERBIA-CROATIA***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,24 SATA
+http://83.139.104.123/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.123/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.123/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1,Arenasport 1
+http://109.72.63.89:4023/udp/238.0.0.100:9003
+#EXTINF:-1,Arenasport 2
+http://109.72.63.89:4023/udp/238.0.0.100:9021
+#EXTINF:-1,Arenasport 3
+http://109.72.63.89:4023/udp/238.0.0.100:9019
+#EXTINF:-1,Arenasport 4
+http://109.72.63.89:4023/udp/238.0.0.100:9020
+#EXTINF:-1,Arenasport 5
+http://109.72.63.89:4023/udp/238.0.0.101:9006
+#EXTINF:-1,b92
+http://109.72.63.89:4023/udp/238.0.0.100:9000
+#EXTINF:-1,B92 TV
+http://stream.b92.net:7999/tv-b92.ogg
+#EXTINF:-1,Banovina_Glina_WP
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1,BOEC
+http://78.107.23.217:4022/udp/233.33.210.145:5050
+#EXTINF:-1,Boomerang
+http://109.72.63.89:4023/udp/238.0.0.101:9005
+#EXTINF:-1,Caricin Grad – Lebane RS
+http://91.150.78.249:8080
+#EXTINF:-1,CBS REALITY
+http://83.139.104.123/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR_ACTION_AND_THRILLER Cr
+http://83.139.104.123/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/index.m3u8
+#EXTINF:-1,CMC_MX_Croatia
+http://83.139.104.123/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,Combar channel
+rtmp://204.107.26.145:1935/live/295.low.stream
+#EXTINF:-1,Discovery Channel
+http://109.72.63.89:4023/udp/238.0.0.100:9017
+#EXTINF:-1,Discovery Channel
+http://109.72.63.89:4023/udp/238.0.0.100:9018
+#EXTINF:-1,DMC
+http://83.139.104.123/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,Eurosport
+http://109.72.63.89:4023/udp/238.0.0.101:9001
+#EXTINF:-1,Eurosport 2
+http://109.72.63.89:4023/udp/238.0.0.101:9002
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.123/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL_Cr
+http://83.139.104.123/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,FightBox
+http://stream1.zoovision.com//livespi/fightbox/HasBahCa.m3u8
+#EXTINF:-1,First Music HD 720p_Ru_MX
+http://109.239.142.62:1935/live/hlsstream/playlist2.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.123/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,Fox Crime
+http://109.72.63.89:4023/udp/238.0.0.100:9016
+#EXTINF:-1,FULL TV
+http://83.139.104.123/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:-1,GINX
+http://83.139.104.123/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 1
+http://109.72.63.89:4023/udp/238.0.0.101:9007
+#EXTINF:-1,HRT 1
+http://83.139.104.123/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,hrt 1 KRO/ENG@
+http://tvplayer.iskon.hr/enc4.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.123/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2 (Croatia)
+http://tvplayer.iskon.hr/enc5.m3u8
+#EXTINF:-1,hrt 2KRO/ENG@
+http://tvplayer.iskon.hr/enc5.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.123/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.123/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT2
+http://tvplayer.iskon.hr/enc5.m3u8
+#EXTINF:-1,HRT2 low
+http://tvplayer.iskon.hr/enc1.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.123/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,Jug Tv
+rtmp://84.20.77.50/live/livestream1
+#EXTINF:-1,JUGOTON
+http://83.139.104.123/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.123/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.123/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:-1,KINO TV
+http://83.139.104.123/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KLASIK TV
+http://83.139.104.123/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.123/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.123/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.123/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.123/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.123/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV Adria
+http://83.139.104.123/content/hls/live/channel(mtv)/stream(01)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV Music
+http://83.139.104.123/content/hls/live/channel(mtv_music)/stream(01)/index.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.123/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,Nova
+http://tvplayer.iskon.hr/enc7.m3u8
+#EXTINF:-1,Nova Hr
+http://146.0.40.73:8080/ipvt_001
+#EXTINF:-1,Nova low
+http://tvplayer.iskon.hr/enc3.m3u8
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.123/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+#EXTINF:-1,Novi Sad 1
+http://static.rtv.rs/video/uzivo/rtv1.asx
+#EXTINF:-1,Novi Sad 2
+http://static.rtv.rs/video/uzivo/rtv2.asx
+#EXTINF:-1,Novosadska TV
+http://176.106.121.32:8080/
+#EXTINF:-1,Novosadska TV mms
+mms://176.106.121.32:8080/
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.123/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.123/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.123/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,PANNON_TV_Subotica_Serbia_MX
+http://212.200.235.242:8080/?MSWMExt=online-television.net.asf
+#EXTINF:-1,Pink
+http://on108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink
+http://109.72.63.89:4023/udp/238.0.0.100:9001
+#EXTINF:-1,Pink 2
+http://on108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink 3
+http://on108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Action
+http://on108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Action 2
+http://195.244.40.149:3000/bysid/52?by_HasBahCa
+#EXTINF:-1,Pink Action 2
+http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Action 2
+http://109.72.63.89:4023/udp/238.0.0.100:9004
+#EXTINF:-1,Pink Action 3
+http://109.72.63.89:4023/udp/238.0.0.100:9005
+#EXTINF:-1,Pink Comedy
+http://109.72.63.89:4023/udp/238.0.0.100:9006
+#EXTINF:-1,Pink Fashion
+http://on108.setplex.net/fastv_2psh/PinkFashionglobal_rly_greece_103/HasBahCa.m3u8
+#EXTINF:-1,Pink Film
+http://109.72.63.89:4023/udp/238.0.0.100:9007
+#EXTINF:-1,Pink Folk
+http://195.244.40.149:3000/bysid/64?by_HasBahCa
+#EXTINF:-1,Pink Folk 1
+http://on108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Folk 2
+http://195.244.40.149:3000/bysid/68?by_HasBahCa
+#EXTINF:-1,Pink Horror
+http://109.72.63.89:4023/udp/238.0.0.100:9002
+#EXTINF:-1,Pink Horror
+http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Horror
+http://195.244.40.149:3000/bysid/67?by_HasBahCa
+#EXTINF:-1,Pink Kids
+http://on108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Live
+http://on108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink M
+http://on108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Movies 2
+http://109.72.63.89:4023/udp/238.0.0.100:9009
+#EXTINF:-1,Pink Movies 3
+http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Music
+http://on108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Music 2
+http://on108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Music 3
+http://on108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/HasBahCa.m3u8
+#EXTINF:-1,Pink Music 4
+http://on108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Music 5
+http://on108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Pedia
+http://on108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Pedia
+http://195.244.40.149:3000/bysid/61?by_HasBahCa
+#EXTINF:-1,Pink Premium
+http://on108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Premium
+http://195.244.40.149:3000/bysid/57?by_HasBahCa
+#EXTINF:-1,Pink Premium
+http://109.72.63.89:4023/udp/238.0.0.100:9015
+#EXTINF:-1,Pink Reality
+http://on108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Reality
+http://195.244.40.149:3000/bysid/56?by_HasBahCa
+#EXTINF:-1,Pink Soap
+http://195.244.40.149:3000/bysid/58?by_HasBahCa
+#EXTINF:-1,Pink Soap
+http://on108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Western
+http://109.72.63.89:4023/udp/238.0.0.100:9008
+#EXTINF:-1,Pink World
+http://on108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,pink Zabava
+http://on108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Zabava
+http://195.244.40.149:3000/bysid/60?by_HasBahCa
+#EXTINF:-1,Pink+
+http://worldiptv.blog.fc2.com://u.to/_vkpCQ
+#EXTINF:-1,PTC rtsp
+rtsp://195.252.113.40/rts
+#EXTINF:-1,RTB TV
+http://83.139.104.123/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://tvplayer.iskon.hr/enc6.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.123/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL (Croatia)
+http://178.218.162.146/918829941/rtl1.stream/chunklist_w151028916.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.123/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL low
+http://tvplayer.iskon.hr/enc2.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.123/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL Zagreb
+rtmp://178.218.162.146/918829941/rtl1.stream
+#EXTINF:-1,RTS 2
+http://109.72.63.89:4023/udp/238.0.0.100:9011
+#EXTINF:-1,RTS 2
+http://109.72.63.89:4023/udp/238.0.0.100:9010
+#EXTINF:-1,RTS HD
+http://109.72.63.89:4023/udp/238.0.0.100:9014
+#EXTINF:-1,Rts Sat rtsp
+rtsp://195.252.113.43/rts
+#EXTINF:-1,Rts Sat rtsp
+rtsp://rts.videostreaming.rs/rts/video
+#EXTINF:-1,RTV Osijek mms
+mms://89.201.164.181/stv
+#EXTINF:-1,RTV Panonija
+http://212.200.238.110:8080
+#EXTINF:-1,RTV Panonija_B.Topola
+http://rtvpanonija.rs/panonija.asx
+#EXTINF:-1,SBTV
+http://83.139.104.123/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,Slager_TV_CeskaSlovenskaVLC
+http://92.62.234.221:10000
+#EXTINF:-1,SOS
+http://109.72.63.89:4023/udp/238.0.0.101:9000
+#EXTINF:-1,Sport Klub 1
+http://109.72.63.89:4023/udp/238.0.0.101:9003
+#EXTINF:-1,Sport Klub 2
+http://109.72.63.89:4023/udp/238.0.0.101:9004
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.123/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.123/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,STUDENT TELEVIZIJA
+rtmp://213.202.73.202/iskon/studentska_b3.stream
+#EXTINF:-1,Studio B
+http://109.72.63.89:4023/udp/238.0.0.100:9013
+#EXTINF:-1,STUDIO B_Serbia mms
+mms://195.252.114.172/studiob
+#EXTINF:-1,STUDIO B_Serbia rtsp
+rtsp://beotelmedia.beotel.net/studiob
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.123/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,TV CG mms
+mms://beotelmedia.beotel.net/tvcg
+#EXTINF:-1,TV ISTRA
+http://83.139.104.123/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,TV Osijek mms
+mms://89.201.164.181/stv
+#EXTINF:-1,TVCG MONTENEGRO mms
+mms://195.252.114.172/tvcg
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.123/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,VOX
+http://83.139.104.123/Content/HLS/Live/Channel(vox_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.123/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
