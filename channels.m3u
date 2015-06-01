@@ -211,104 +211,168 @@ http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2cadb9
 #EXTINF:-1, ITV4[COLOR red]link_down[/COLOR]
 http://198.179.30.108/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1505c6466e8de32105d843e586b6809d55ea90b141671ed38dcedb2086c02155ea6490ae4e7eb892fe05f051c576633679449770f9f611cc1f71cc55f1cbbb31f2894d242b16191ae8aca46c05dc82ad497b0450f65581d6f7f15ac4b90dfd151e3b5251cea7a61d407b43f03b28dcfd1370fe50068ba1d448ae90a76e7ae37de3bd777677e3ca289214de34f8ee2e04
 
-
-#EXTINF:-1,:OBN [COLOR blue]Serbian[/COLOR]
-http://176.10.104.202:8000/543123
-
-
-#EXTINF:-1,:prva [COLOR blue]Serbian[/COLOR]
-http://176.10.104.202:8000/652634
-
-
-#EXTINF:-1,:nova [COLOR blue]Serbian[/COLOR]
-http://176.10.104.202:8000/143245
-
-
-#EXTINF:-1,:sitel [COLOR blue]Serbian[/COLOR]
-http://176.10.104.202:8000/238946
-
-
-#EXTINF:-1,:rtl [COLOR blue]Serbian[/COLOR]
-http://176.10.104.202:8000/524533
-
-
-#EXTINF:-1,:doma [COLOR blue]Serbian[/COLOR]
-http://176.10.104.202:8000/645263
-
-
-#EXTINF:-1,:Pink [COLOR blue]Serbian[/COLOR] 
-http://176.10.104.202:8000/421125
-
-
-#EXTINF:-1,:Hayat [COLOR blue]Serbian[/COLOR]
-http://176.10.104.202:8000/827314
-
-#EXTINF:-1,:RTS 1 [COLOR blue]Serbian[/COLOR]
-http://91.187.113.203:10103
-
-#EXTINF:-1,:RTS2 [COLOR blue]Serbian[/COLOR]
-http://91.187.113.203:10041
-
-#EXTINF:-1,:b92 [COLOR blue]Serbian[/COLOR]
-http://91.187.113.203:10031
-
-#EXTINF:-1,:prva [COLOR blue]Serbian[/COLOR]
-http://91.187.113.203:10040
-
-#EXTINF:-1,:B92 [COLOR blue]Serbian[/COLOR]
-http://91.187.113.203:10101
-
-#EXTINF:-1,:FEN [COLOR blue]Serbian[/COLOR]
-http://91.187.113.203:10024
-
-#EXTINF:-1,:BALKANIKA [COLOR blue]Serbian[/COLOR]
-http://91.187.113.203:10026
-
-#EXTINF:-1,RTS 1 [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,RTS 2 [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,PINK [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,HAPPY [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,SOS [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,B 92 [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,PRVA [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,STUDIO B [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,SKY PLUS [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,PALMA [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,RTCG SAT [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,RTRS [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,HTV 1 [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,HTV 2 [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,RTV 1 [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
-
-#EXTINF:-1,KANAL 3 [COLOR blue]Serbian[/COLOR]
-http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda 
+#EXTINF:-1,***HasBahCa IPTV *** ESKI YUGOSLAVYA - EX-YUG***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,4MusicTV
+rtsp://46.249.213.87/broadcast/4-tablet.3gp
+#EXTINF:-1,a1HD
+http://85.25.119.116:9166
+#EXTINF:-1,a1report
+rtmp://$OPT:rtmp-raw=rtmp://66.55.93.204/livepkgr playpath=a1stream?adbe-live-event=a1report swfUrl=http://on.net.mk/player/player5.swf live=1 pageUrl=http://01.gen.tr/index.php?dir=HasBahCa_IPTV/live/a1report.php
+#EXTINF:-1,Al Jazeera Balkan
+rtmp://$OPT:rtmp-raw=rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_balkans_high swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf live=1 pageUrl=http://mali-ekrani.blogspot.ch/2013/07/al-jazeera-balkan.html
+#EXTINF:-1,Alfa TV Makedon
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+#EXTINF:-1,ASS SABAC mmsh
+mmsh://web.multimediaiptv.net:8002/ass_web?MSWMExt=.asf
+#EXTINF:-1,ATV+1
+rtmp://195.228.75.97/atvliveedge/_definst_/atvstream_2_aac
+#EXTINF:-1,B92 TV
+http://stream.b92.net:7999/tv-b92.ogg
+#EXTINF:-1,BAJA TV
+rtmp://85.67.200.10/live/teszt/baja.flv
+#EXTINF:-1,ballkan tv
+rtmp://yayin.tvdunyasi.tv/live/balkanrtv
+#EXTINF:-1,Banovina_Glina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1,BKTV
+rtmp://194.249.141.146:443/live/bktv
+#EXTINF:-1,BOEC
+http://78.107.23.217:4022/udp/233.33.210.145:5050
+#EXTINF:-1,CARICIN GRAD LEBANE
+http://91.150.78.249:8080/
+#EXTINF:-1,Combar channel
+rtmp://204.107.26.145:1935/live/295.low.stream
+#EXTINF:-1,FightBox
+http://stream1.zoovision.com//livespi/fightbox/HasBahCa.m3u8
+#EXTINF:-1,Filmon_Ginx
+rtmp://204.107.26.252:8086/live/796.high.stream
+#EXTINF:-1,First Music HD 720p_Ru_MX
+http://109.239.142.62:1935/live/hlsstream/playlist2.m3u8
+#EXTINF:-1,FIX hd
+rtmp://video.fixhd.tv/fix/hd.stream
+#EXTINF:-1,HEMA TV mms
+mms://77.238.209.50:1234
+#EXTINF:-1,Hir TV
+http://212.200.235.242:8080/?MSWMExt=online-television.net.asf
+#EXTINF:-1,hrt 1 KRO/ENG@
+http://tvplayer.iskon.hr/enc4.m3u8
+#EXTINF:-1,HRT 2 (Croatia)
+http://tvplayer.iskon.hr/enc5.m3u8
+#EXTINF:-1,HRT1
+http://artm:artm@84.22.33.22:8048
+#EXTINF:-1,JOJ
+http://88.212.10.27:81/streams/joj.m3u8
+#EXTINF:-1,JOJ PLUS
+http://88.212.10.27:81/streams/jojplus.m3u8
+#EXTINF:-1,jug tv
+rtmp://$OPT:rtmp-raw=rtmp://84.20.77.50/live/ playpath=livestream1 swfUrl=http://www.profreetv.com/include/player.swf live=1 pageUrl=http://www.profreetv.com/index.php?content=watch&tvid=465 --live
+#EXTINF:-1,Jug Tv
+rtmp://84.20.77.50/live/livestream1
+#EXTINF:-1,JUGOTON_MX
+http://u.to/2jg_CQ
+#EXTINF:-1,King TV_MX
+http://91.82.85.16:1935/relay15/nettv03_channel_1/HasBahCa.m3u8
+#EXTINF:-1,Konyha TV
+rtmp://91.82.85.44/live/konyhatv
+#EXTINF:-1,Light Channel TV
+rtsp://streamer1.streamhost.org/salive/hungarian
+#EXTINF:-1,M1 HD
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+#EXTINF:-1,M2 HD
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+#EXTINF:-1,Mega Indjija mms
+mmsh://web.multimediaiptv.net:8002/mega_web?MSWMExt=.asf
+#EXTINF:-1,MUSIQ1
+http://88.212.10.27:81/streams/musiq1.m3u8
+#EXTINF:-1,ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1,NET TV INFO
+http://5.153.25.7:8082/stream/?channel=nettvinfo&stream=1mb
+#EXTINF:-1,news 24
+rtmp://66.55.93.203/livepkgr/n24stream?adbe-live-event=news24
+#EXTINF:-1,Nova Hr
+http://146.0.40.73:8080/ipvt_001
+#EXTINF:-1,Nova low
+http://tvplayer.iskon.hr/enc3.m3u8
+#EXTINF:-1,Novi Sad 1
+rtsp://212.200.255.151/rtv1
+#EXTINF:-1,Novi Sad 2
+rtsp://212.200.255.151/rtv2
+#EXTINF:-1,NoviSad Trg Slobode
+rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
+#EXTINF:-1,Novosadska TV
+http://176.106.121.32:8080/
+#EXTINF:-1,outdoor chanell {everyon.tv}
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+#EXTINF:-1,PANNON TV Subotica
+http://212.200.235.242:8080/
+#EXTINF:-1,Party TV
+rtmp://149.11.34.6/live/partytv.stream
+#EXTINF:-1,Planettv SLO
+rtsp://origin.biokoda.tv/live/mbit-planet?k=planettv-public
+#EXTINF:-1,PTC
+rtsp://195.252.113.40/rts
+#EXTINF:-1,ROKUM TV
+rtmp://82.114.65.202/live/rrokumtv
+#EXTINF:-1,RTCG mms
+mms://195.252.114.172/tvcg
+#EXTINF:-1,RTL
+http://tvplayer.iskon.hr/enc6.m3u8
+#EXTINF:-1,RTL
+rtmp://653553327.e.918829941.r.pluscdn.com:1935/918829941/rtl1.stream
+#EXTINF:-1,RTL low
+http://tvplayer.iskon.hr/enc2.m3u8
+#EXTINF:-1,RTL Zagreb
+http://178.218.162.146/918829941/rtl1.stream/chunklist_w151028916.m3u8
+#EXTINF:-1,Rts Sat
+rtsp://195.252.113.43/rts
+#EXTINF:-1,Rts Sat
+rtsp://rts.videostreaming.rs/rts/video
+#EXTINF:-1,RTS SAT
+rtsp://195.252.113.40/rts
+#EXTINF:-1,RTS Sat mms
+mmsh://rts.videostreaming.rs/rts mms
+#EXTINF:-1,RTS satelit mms
+mmsh://195.252.113.38:80/rts?MSWMExt=.asf
+#EXTINF:-1,RTV JUG
+rtmp://84.20.77.50/live//livestream2
+#EXTINF:-1,RTV Novi Sad 1
+http://www.rtv.rs/video/uzivo/rtv1.asx
+#EXTINF:-1,RTV Novi Sad 2
+http://www.rtv.rs/video/uzivo/rtv2.asx
+#EXTINF:-1,RTV Panonija
+http://rtvpanonija.rs/panonija.asx
+#EXTINF:-1,RTV Panonija
+http://212.200.238.110:8080
+#EXTINF:-1,Slager_TV_CeskaSlovenskaVLC
+http://92.62.234.221:10000
+#EXTINF:-1,SPORT KLUB 2
+http://91.187.113.203:10030/
+#EXTINF:-1,Sportskool
+rtmp://204.107.26.252:8086/live/686.high.stream
+#EXTINF:-1,STUDENT TELEVIZIJA_WP
+rtmp://213.202.73.202/iskon/studentska_b3.stream
+#EXTINF:-1,STUDIO B_Serbia
+rtsp://beotelmedia.beotel.net/studiob
+#EXTINF:-1,STUDIO B_Serbia mms
+mms://195.252.114.172/studiob
+#EXTINF:-1,stv folk
+rtmp://str103.setplex.net:1935/228/stv_folk
+#EXTINF:-1,STV FOLK
+rtmp://$OPT:rtmp-raw=rtmp://str103.setplex.net:1935/228 playpath=stv_folk swfUrl=http://shqip1.altervista.org/tvlive/player.swf live=1 pageUrl=http://shqip1.altervista.org/tvlive/superfolk.html
+#EXTINF:-1,supersonic tv
+rtmp://str103.setplex.net:1935/228/stv_online
+#EXTINF:-1,supersonic tv
+rtmp://str103.setplex.net:1935/228/stv_online
+#EXTINF:-1,Tehnika TV 777 Montenegro_TELEVIZIJA LUTRIJE CRNE GORE
+rtmp://5.63.148.44/tehnikatv777/tehnikatv777
+#EXTINF:-1,TV CG mms
+mms://beotelmedia.beotel.net/tvcg
+#EXTINF:-1,TV Osijek mms
+mms://89.201.164.181/stv
+#EXTINF:-1,TVCG mms
+mms://195.252.114.172/tvcg
+#EXTINF:-1,ZLATNI BIK
+http://199.115.117.206:8000/zlatnibik
 
