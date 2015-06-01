@@ -212,3 +212,103 @@ http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2cadb9
 http://198.179.30.108/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1505c6466e8de32105d843e586b6809d55ea90b141671ed38dcedb2086c02155ea6490ae4e7eb892fe05f051c576633679449770f9f611cc1f71cc55f1cbbb31f2894d242b16191ae8aca46c05dc82ad497b0450f65581d6f7f15ac4b90dfd151e3b5251cea7a61d407b43f03b28dcfd1370fe50068ba1d448ae90a76e7ae37de3bd777677e3ca289214de34f8ee2e04
 
 
+#EXTINF:-1,:OBN [COLOR blue]Serbian[/COLOR]
+http://176.10.104.202:8000/543123
+
+
+#EXTINF:-1,:prva [COLOR blue]Serbian[/COLOR]
+http://176.10.104.202:8000/652634
+
+
+#EXTINF:-1,:nova [COLOR blue]Serbian[/COLOR]
+http://176.10.104.202:8000/143245
+
+
+#EXTINF:-1,:sitel [COLOR blue]Serbian[/COLOR]
+http://176.10.104.202:8000/238946
+
+
+#EXTINF:-1,:rtl [COLOR blue]Serbian[/COLOR]
+http://176.10.104.202:8000/524533
+
+
+#EXTINF:-1,:doma [COLOR blue]Serbian[/COLOR]
+http://176.10.104.202:8000/645263
+
+
+#EXTINF:-1,:Pink [COLOR blue]Serbian[/COLOR] 
+http://176.10.104.202:8000/421125
+
+
+#EXTINF:-1,:Hayat [COLOR blue]Serbian[/COLOR]
+http://176.10.104.202:8000/827314
+
+#EXTINF:-1,:RTS 1 [COLOR blue]Serbian[/COLOR]
+http://91.187.113.203:10103
+
+#EXTINF:-1,:RTS2 [COLOR blue]Serbian[/COLOR]
+http://91.187.113.203:10041
+
+#EXTINF:-1,:b92 [COLOR blue]Serbian[/COLOR]
+http://91.187.113.203:10031
+
+#EXTINF:-1,:prva [COLOR blue]Serbian[/COLOR]
+http://91.187.113.203:10040
+
+#EXTINF:-1,:B92 [COLOR blue]Serbian[/COLOR]
+http://91.187.113.203:10101
+
+#EXTINF:-1,:FEN [COLOR blue]Serbian[/COLOR]
+http://91.187.113.203:10024
+
+#EXTINF:-1,:BALKANIKA [COLOR blue]Serbian[/COLOR]
+http://91.187.113.203:10026
+
+#EXTINF:-1,RTS 1 [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,RTS 2 [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,PINK [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,HAPPY [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,SOS [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,B 92 [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,PRVA [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,STUDIO B [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,SKY PLUS [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,PALMA [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,RTCG SAT [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,RTRS [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,HTV 1 [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,HTV 2 [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,RTV 1 [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda
+
+#EXTINF:-1,KANAL 3 [COLOR blue]Serbian[/COLOR]
+http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=54db4017eff256f75b2c80fff68436c378050eda 
+
